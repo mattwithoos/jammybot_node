@@ -1,0 +1,23 @@
+{
+  "name": "jammybot_node",
+  "version": "0.0.1",
+  "description": "Jammy is the glue that keeps you accountable!",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattwithoos/jammybot_node.git"
+  },
+  "author": "Matt Withoos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattwithoos/jammybot_node/issues"
+  },
+  "homepage": "https://github.com/mattwithoos/jammybot_node#readme"
+}
